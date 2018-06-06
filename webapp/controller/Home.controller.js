@@ -4,6 +4,6 @@ sap.ui.define([
 	"use strict";
 
 	return Controller.extend("com.total.demoHelloWorld.controller.Home", {
-
+ 
 	});
 });
